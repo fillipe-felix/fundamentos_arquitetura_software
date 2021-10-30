@@ -1,5 +1,6 @@
 ﻿using System;
 using SOLID._2___OCP.OCP.Solucao_Extension_Methods;
+using SOLID._3___LSP.LSP.Solucao;
 
 namespace SOLID
 {
@@ -15,8 +16,10 @@ namespace SOLID
             switch (opcao.KeyChar)
             {
                 case '1':
-                    CaixaEletronico.MenuOperacoes();
                     CaixaEletronico.Operacoes();
+                    break;
+                case '2':
+                    CalculoArea.Calcular();
                     break;
             }
         }
