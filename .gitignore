@@ -74,4 +74,5 @@ fabric.properties
 .idea/sonarlint/*
 OOP/obj/*
 SOLID/obj/*
+SOLID/bin/*
 

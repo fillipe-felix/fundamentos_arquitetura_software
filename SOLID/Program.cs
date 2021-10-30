@@ -1,4 +1,5 @@
 ﻿using System;
+using SOLID._2___OCP.OCP.Solucao_Extension_Methods;
 
 namespace SOLID
 {
@@ -6,7 +7,18 @@ namespace SOLID
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Escolha a operação");
+            Console.WriteLine("1 - OCP");
+            Console.WriteLine("2 - LSP");
+            var opcao = Console.ReadKey();
+
+            switch (opcao.KeyChar)
+            {
+                case '1':
+                    CaixaEletronico.MenuOperacoes();
+                    CaixaEletronico.Operacoes();
+                    break;
+            }
         }
     }
 }
