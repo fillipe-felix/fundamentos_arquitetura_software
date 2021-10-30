@@ -1,4 +1,4 @@
-﻿namespace OOP._03___HerancaVsImplementacao
+﻿namespace OOP._03___InterfaceVsImplementacao
 {
     public interface IRepositorio
     {
