@@ -115,8 +115,6 @@ g
 7SOLID/5 - DIP/DIP.Solucao/Interfaces/IClienteService.cs,c\f\cf9416f6b89f217012359261e6959abc0582ec3b
 c
 3DemoDI/obj/Debug/net5.0/DemoDI.RazorAssemblyInfo.cs,8\3\8324757d4dc40e2bfb60a64370b5ff3b3b0a3c37
-[
-+DemoDI/Controllers/FromServiceController.cs,0\4\042a6db38f4630d5c80f0949d329a93b46a8bcab
 ^
 .DemoDI/Controllers/ServiceLocatorController.cs,9\e\9ee236c55b0f72de92a225aa4bc6afdf5c18943c
 `
