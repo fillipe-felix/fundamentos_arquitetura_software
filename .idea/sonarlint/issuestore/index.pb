@@ -89,28 +89,10 @@ W
 'SOLID/3 - LSP/LSP.Violacao/Retangulo.cs,2\2\2291a7dcf191c6ec498edf6d6e457dea9aed128c
 V
 &SOLID/3 - LSP/LSP.Violacao/Quadrado.cs,b\e\be20abbc3663b2d04c29ae8f6c2f71d62551abb0
-X
-(SOLID/3 - LSP/LSP.Solucao/CalculoArea.cs,7\d\7d2b6c4cca4fd61bf6ff09f14fffd0bc281ff385
 Z
 *SOLID/3 - LSP/LSP.Solucao/Paralelograma.cs,0\9\091f505664dd6e1ff21459562267b059b31749f6
-h
-8SOLID/4 - ISP/ISP.Solucao/Interfaces/ICadastroCliente.cs,0\9\09a75013f707310fbb7790ee887fcd6eb1f6953b
-\
-,SOLID/4 - ISP/ISP.Solucao/CadastroCliente.cs,0\4\04515fbcdeda92c5763ccfa3c925fcc5ee2dd3d7
-h
-8SOLID/4 - ISP/ISP.Solucao/Interfaces/ICadastroProduto.cs,f\3\f3c1b213889f473f2b75daba0a70528cce38488a
-\
-,SOLID/4 - ISP/ISP.Solucao/CadastroProduto.cs,4\b\4b16527c3f9e6fb6d020479c77afb9ebeb85ed0b
-]
--SOLID/4 - ISP/ISP.Violacao/CadastroCliente.cs,9\3\931355c6052c7a2acea29b4b799f0afeab95c693
 W
 'SOLID/4 - ISP/ISP.Violacao/ICadastro.cs,2\5\25991cfb994a38bd35278f8763ae3676966917f7
-]
--SOLID/4 - ISP/ISP.Violacao/CadastroProduto.cs,2\4\2455eeedef0cc8706826f261119abd86247d4ae4
-a
-1SOLID/4 - ISP/ISP.Solucao/Interfaces/ICadastro.cs,0\d\0d6c708311bbad3e07488e9a9d685c75bfe2b923
-_
-/SOLID/5 - DIP/DIP.Solucao/ClienteRepository2.cs,f\b\fb0b83ebf43f1bee7051609188bde99a33253d15
 B
 SOLID/SOLID.csproj,4\d\4da0d4dd04aed7cec14e1ca3a3ccc4d68465981b
 _
@@ -125,21 +107,123 @@ Z
 *SOLID/5 - DIP/DIP.Violacao/EmailService.cs,b\e\befb9efcc376f71c39b1707353602174b339d22d
 S
 #SOLID/5 - DIP/DIP.Violacao/Email.cs,e\e\ee9c449c04aafbeeb7dc3d8a4da477a75dc2c6bb
-P
- SOLID/5 - DIP/DIP.Solucao/Cpf.cs,f\6\f6deba62b09b4345d27052a975b1a859fef848b2
-^
-.SOLID/5 - DIP/DIP.Solucao/ClienteRepository.cs,7\b\7bfc1ba24489e9a45d571e33378dc2348707e15e
-Y
-)SOLID/5 - DIP/DIP.Solucao/EmailService.cs,7\f\7f2bc8c8f3a8ee75ae734ca9fed980f05f3efe85
-R
-"SOLID/5 - DIP/DIP.Solucao/Email.cs,6\b\6b98b62884fce1abe1263c253e4f36b8fd913c53
 j
 :SOLID/5 - DIP/DIP.Solucao/Interfaces/IClienteRepository.cs,f\d\fdfec4e713dae492bac8a8d9aa458ef0b47732be
 e
 5SOLID/5 - DIP/DIP.Solucao/Interfaces/IEmailService.cs,b\d\bdcbd27cbabcfc70a884b5243de203b78ea40c0a
 g
 7SOLID/5 - DIP/DIP.Solucao/Interfaces/IClienteService.cs,c\f\cf9416f6b89f217012359261e6959abc0582ec3b
+c
+3DemoDI/obj/Debug/net5.0/DemoDI.RazorAssemblyInfo.cs,8\3\8324757d4dc40e2bfb60a64370b5ff3b3b0a3c37
+W
+'DemoDI/Controllers/GenericController.cs,9\6\96eff6351e736b1a4deee2026d9a4dc5eee5c587
 [
-+SOLID/5 - DIP/DIP.Solucao/ClienteService.cs,8\3\83f2acc07e6e22dae86f1bebd6b41722885da417
++DemoDI/Controllers/FromServiceController.cs,0\4\042a6db38f4630d5c80f0949d329a93b46a8bcab
+^
+.DemoDI/Controllers/ServiceLocatorController.cs,9\e\9ee236c55b0f72de92a225aa4bc6afdf5c18943c
+`
+0DemoDI/Controllers/MultiplasClassesController.cs,2\6\26faff717ce1d811a19b50cf7e7c6de607f80944
+_
+/DemoDI/Controllers/ServiceLocator2Controller.cs,8\b\8b78d0d9cdf6494e6f781b009a6a39ff60096a61
+H
+DemoDI/Cases/Generics.cs,3\0\30cc78c4e424617ac1d8760d636ed8b76020905f
+P
+ DemoDI/Cases/MultiplasClasses.cs,a\d\adde8a211cbb40a201678b0c403134b175aa1102
+J
+FundamentosArquitetura.sln,3\e\3e2e0bab4f2fcf4cdac9bf74de8bc90413c45bb1
+S
+#DemoDI/appsettings.Development.json,d\1\d1883a7f6d6fc2ec182684addba2a68d82fa17a9
+A
+DemoDI/Program.cs,b\e\bea889cbbea95a865105da01ddba3d0cd72de475
+G
+DemoDI/appsettings.json,7\3\73405231d6d4c480a24181eef339a946c46997f2
+D
+DemoDI/DemoDI.csproj,4\e\4e293ad514126d6f73e3bced7515a7bb99abd097
+N
+DemoDI/Views/_ViewStart.cshtml,f\2\f201bbbcdd6f7d271b8160f4271d71c4134d783f
+P
+ DemoDI/Views/_ViewImports.cshtml,9\4\9428eaaad59c3c2e1ab16768c7cb62f6714c4a66
+N
+DemoDI/Views/Home/Index.cshtml,6\5\6584aafdf140cb4d8b73d893a48e436db4071961
+P
+ DemoDI/Views/Home/Privacy.cshtml,0\5\05b460b66abe17a1d6388b06a34ee47cf30076bf
+d
+4DemoDI/Views/Shared/_ValidationScriptsPartial.cshtml,e\f\efc9ceb09d70159492e7ca76e5446271f977be93
+P
+ DemoDI/Views/Shared/Error.cshtml,2\c\2c6c1fc40d139cd127bea1abedc0301418a1cbcd
+O
+DemoDI/Models/ErrorViewModel.cs,f\0\f06f5520ab44c93f8527e5ab363a8098a86d7dcc
+K
+DemoDI/wwwroot/css/site.css,5\7\5750ea4ca21a357491cff5c9ec926a652973889b
+I
+DemoDI/wwwroot/js/site.js,5\4\540dac7f742a97ce227abd3ab5d53c4c050c6a54
+U
+%DemoDI/wwwroot/lib/jquery/LICENSE.txt,3\a\3a6f2481420b5cfbc8a4a2eb2d23e35c83db8eef
+\
+,DemoDI/wwwroot/lib/jquery/dist/jquery.min.js,f\1\f1735ea9a02f1b0a9b3c7b9b8b5b6c191b4d3ff7
+X
+(DemoDI/wwwroot/lib/jquery/dist/jquery.js,7\7\778931392084d3158506a1eaec1c9694ec8e3675
 T
-$SOLID/5 - DIP/DIP.Solucao/Cliente.cs,1\6\16a8172a1e3d91e6a31be5aaf8c216c9685355b5
+$DemoDI/wwwroot/lib/bootstrap/LICENSE,4\9\49a522dfe9eb82df40db7eb1c726aea5b2012000
+]
+-DemoDI/wwwroot/lib/jquery/dist/jquery.min.map,0\e\0e7638c8f1c8d5897fe3042c32d1cf652d01be9b
+i
+9DemoDI/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map,7\3\73692cab8ccef27a8566862398ca65c6b1220c52
+a
+1DemoDI/wwwroot/lib/bootstrap/dist/js/bootstrap.js,8\8\88c3def565567901df9498237f2c91afe29ed3d6
+e
+5DemoDI/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map,0\d\0dc8d92ef68a5f9b1a1b166bcbb5f8833d80fe01
+p
+@DemoDI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map,6\1\6192bb6d8fdacf7a99b00f6628df5c9ad759e466
+l
+<DemoDI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js,e\2\e2b36e13fa92144c6faaec66dac578dac1a661b6
+l
+<DemoDI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map,8\e\8e1debd79f53f699997142d5e14cb592c02f2ba8
+e
+5DemoDI/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js,8\e\8ededbc943c91b9dd9d59ffe6aecdf79e49fd51e
+g
+7DemoDI/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css,d\6\d6db5cec674a796c90c69c1840ddcb50f21e4799
+h
+8DemoDI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js,2\b\2b87664159e24ceb06e4f30d89c27f1a23e64e69
+k
+;DemoDI/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map,2\c\2cc36612e677d9514ad59ac637386d01e7e1f332
+l
+<DemoDI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map,9\e\9e46bf84db62afad1f8813876afb8113030b7718
+r
+BDemoDI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map,a\0\a0db0dce904790042501bdfa47aa46ed710c0f58
+g
+7DemoDI/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map,3\e\3e64f5ef392d64cccd4d01e7042b893ce4c7b262
+j
+:DemoDI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css,d\2\d2563243ad86644aee2c6645310938d2b940c42f
+p
+@DemoDI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map,6\6\661f5579de9092926d077dd1fc9ca94b8e1a5159
+n
+>DemoDI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map,3\8\38d1248f31892c401d46c1306e3c319fe46d3036
+n
+>DemoDI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css,2\1\21743f84bc7c9e459820bf3e16b9d72afcbe500e
+h
+8DemoDI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css,6\c\6c4549f45007bba69b4551e3523362fdc0c672fe
+l
+<DemoDI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css,8\a\8ac8df6d34603989673b849008cab123ec059653
+_
+/DemoDI/wwwroot/lib/jquery-validation/LICENSE.md,9\1\91274bb5c38be76d847c87a729c372ec58078349
+c
+3DemoDI/wwwroot/lib/bootstrap/dist/css/bootstrap.css,1\f\1f26721dd3ac83fe752012b5179ee49db47f9edf
+o
+?DemoDI/wwwroot/lib/jquery-validation/dist/additional-methods.js,a\2\a217390dc3046a1a6c9b7500508be5e58feb5c00
+s
+CDemoDI/wwwroot/lib/jquery-validation/dist/additional-methods.min.js,2\c\2c81d41ccbb0c6376f60e4878e746f920040ea5a
+p
+@DemoDI/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js,b\d\bd6b3023935d43f5d151c6728ffe4524537d071f
+
+ODemoDI/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js,7\b\7bed0f4c83e6e58afcc29c50dd192b7213734f2f
+l
+<DemoDI/wwwroot/lib/jquery-validation/dist/jquery.validate.js,b\8\b83b6ffa768a49ddc9b5312abc439eecd4d83068
+ƒ
+SDemoDI/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js,8\8\8899d95dc30ccb86d88830868c134e5405bf722d
+l
+<DemoDI/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt,6\7\672bca440bfde456ec0a7d91e09eaaaf4d47f946
+U
+%DemoDI/Properties/launchSettings.json,2\9\299135e2ceb59a96432d3a0e9043e2b37f970a20
+^
+.DemoDI/obj/Debug/net5.0/DemoDI.AssemblyInfo.cs,0\f\0f0c10d4ad79c4c6dc4ac0d548070f76fbef0242

@@ -26,7 +26,16 @@ namespace DemoDI
         {
             services.AddControllersWithViews();
 
+            #region Lifecycle
 
+            services.AddTransient<IOperacaoTransient, Operacao>();
+            services.AddScoped<IOperacaoScoped, Operacao>();
+            services.AddSingleton<IOperacaoSingleton, Operacao>();
+            services.AddSingleton<IOperacaoSingletonInstance>(new Operacao(Guid.Empty));
+            services.AddTransient<OperacaoService>();
+
+            #endregion
+            
             #region VidaReal
 
             services.AddScoped<IClienteService, ClienteService>();
