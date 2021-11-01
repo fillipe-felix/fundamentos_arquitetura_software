@@ -115,10 +115,6 @@ g
 7SOLID/5 - DIP/DIP.Solucao/Interfaces/IClienteService.cs,c\f\cf9416f6b89f217012359261e6959abc0582ec3b
 c
 3DemoDI/obj/Debug/net5.0/DemoDI.RazorAssemblyInfo.cs,8\3\8324757d4dc40e2bfb60a64370b5ff3b3b0a3c37
-`
-0DemoDI/Controllers/MultiplasClassesController.cs,2\6\26faff717ce1d811a19b50cf7e7c6de607f80944
-P
- DemoDI/Cases/MultiplasClasses.cs,a\d\adde8a211cbb40a201678b0c403134b175aa1102
 J
 FundamentosArquitetura.sln,3\e\3e2e0bab4f2fcf4cdac9bf74de8bc90413c45bb1
 S
