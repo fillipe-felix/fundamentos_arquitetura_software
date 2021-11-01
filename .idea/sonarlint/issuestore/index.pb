@@ -115,12 +115,8 @@ g
 7SOLID/5 - DIP/DIP.Solucao/Interfaces/IClienteService.cs,c\f\cf9416f6b89f217012359261e6959abc0582ec3b
 c
 3DemoDI/obj/Debug/net5.0/DemoDI.RazorAssemblyInfo.cs,8\3\8324757d4dc40e2bfb60a64370b5ff3b3b0a3c37
-^
-.DemoDI/Controllers/ServiceLocatorController.cs,9\e\9ee236c55b0f72de92a225aa4bc6afdf5c18943c
 `
 0DemoDI/Controllers/MultiplasClassesController.cs,2\6\26faff717ce1d811a19b50cf7e7c6de607f80944
-_
-/DemoDI/Controllers/ServiceLocator2Controller.cs,8\b\8b78d0d9cdf6494e6f781b009a6a39ff60096a61
 P
  DemoDI/Cases/MultiplasClasses.cs,a\d\adde8a211cbb40a201678b0c403134b175aa1102
 J
